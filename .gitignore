@@ -105,6 +105,3 @@ venv.bak/
 
 # docker
 docker/
-
-# staticpages
-/static
