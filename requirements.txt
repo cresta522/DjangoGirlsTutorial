@@ -1,0 +1,7 @@
+readline
+virtualenv
+django==2.1
+django-jet
+mysqlclient
+PyMySQL
+django-debug-toolbar
