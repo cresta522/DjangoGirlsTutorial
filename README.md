@@ -1,0 +1,5 @@
+# DjangoGirlsTutorial
+
+# commands
+```mkdir djangogirls```
+
